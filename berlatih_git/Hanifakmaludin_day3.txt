@@ -1,3 +1,4 @@
 Nama : Hanif Akmaludin
 Stack : Backend
+Bahasa Pemprograman : Javascript
 Branch : main
